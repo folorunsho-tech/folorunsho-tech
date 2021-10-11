@@ -52,15 +52,20 @@
   ### Connect with me 
   
 <p align="center">
+  
 <a href="https://www.linkedin.com/in/folorunsho-ibrahim-t/" target="_blank">
   <img align="center" alt="Folorunsho Ibrahim Babatunde | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
 <a href="https://twitter.com/tacheyontechs" target="_blank">
   <img align="center" alt="Folorunsho Ibrahim Babatunde | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
 </a> &nbsp;&nbsp;
-<a href="mailto:tacheyontech@gmail.com" >
+<a href="mailto:tacheyontech@gmail.com" target="_blank">
   <img align="center" alt="Folorunsho Ibrahim Babatunde | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
+<a href="https://folorunshoibr.com" target="_blank">
+  <img align="center" alt="Folorunsho Ibrahim Babatunde | Website" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/www.svg" />
+</a>
+
 <p>
   
 <br>
