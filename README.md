@@ -5,7 +5,7 @@
 <p>
   
  <p>
-  I am a currently available for either <em><b>Remote or Part-time Software Engineering Job</b> </em> or <b>Wordpress design | maintanance</b> | <b> Shopify Development or maintenace</b>
+  I am a currently available for either <em><b>Remote or Part-time Software Engineering Job</b> </em> or <b>Wordpress design | maintanance</b> 
 <p>
 
   ### Github Stats
